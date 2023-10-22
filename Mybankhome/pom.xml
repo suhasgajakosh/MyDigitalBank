@@ -15,7 +15,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.4.1.RELEASE</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
 	<properties>
@@ -116,14 +116,14 @@
 		<dependency>
 			<groupId>org.webjars.bower</groupId>
 			<artifactId>angular</artifactId>
-			<version>1.4.9</version>
+			<version>1.6.0</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.webjars.bower/angular-route -->
 		<dependency>
 			<groupId>org.webjars.bower</groupId>
 			<artifactId>angular-route</artifactId>
-			<version>1.4.9</version>
+			<version>1.6.0</version>
 		</dependency>
 
 
